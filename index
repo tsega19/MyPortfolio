@@ -151,19 +151,14 @@
               <i class="fas fa-desktop"></i>
             </div>
             <div class="topic">React.js Advanced</div>
-           <img src="advaced.jpg" alt="" width="300" height="300"/> 
-           <a href="https://coursera.org/share/120d68ae1ae3a4d5056cada02158c7df"> <div class="button">
-            <button>Click</button>
-          </div> </a>
+            <img src="https://coursera.org/share/e4daa99a5286635a1eaea842df57ccad" alt="" />
           </div>
           <div class="box">
             <div class="icon">
               <i class="fas fa-paint-brush"></i>
             </div>
-            <div class="topic">React.js Basic </div>
-            <img src="basic.jpg" alt="" width="300" height="300"/> <a href="https://coursera.org/share/e4daa99a5286635a1eaea842df57ccad"><div class="button">
-              <button>Click</button>
-            </div></a>
+            <div class="topic">React.js Advanced </div>
+            <p>I can design software structure with full requiremnt design including UI/UX design</p>
           </div>
          
         </div>
