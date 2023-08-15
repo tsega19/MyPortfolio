@@ -3,10 +3,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>TSEGA SOLOMON</title>
     <link rel="shortcut icon" type="image/x-icon" href="icon.ico" />
- 
     <link rel="stylesheet" href="style.css" />
     <!-- Fontawesome CDN Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
@@ -82,7 +80,6 @@
 
     <!-- My Skill Section Start -->
     <!-- Section Tag and Other Div will same where we need to put same CSS -->
-   <section class="Certificates" id="Certificates"> 
     <section class="skills" id="skills">
       <div class="content">
         <div class="title"><span>My Skills</span></div>
@@ -120,12 +117,12 @@
               <div class="per">Advanced Level</div>
             </div>
             <div class="box">
-              <div class="topic">Laravel </div>
+              <div class="topic">Laravel Framework</div>
               <div class="per">Intermediate Level</div>
             </div>
             <div class="box">
-              <div class="topic">Django</div>
-              <div class="per">Intermediate Level</div>
+              <div class="topic">Django Framework</div>
+              <div class="per">Beginner Level</div>
             </div>
             <div class="box">
               <div class="topic">PHP</div>
@@ -133,7 +130,7 @@
             </div>
             <div class="box">
               <div class="topic">Python</div>
-              <div class="per">Intermediate Level</div>
+              <div class="per">Beginner Level</div>
             </div>
             <div class="box">
               <div class="topic">Java</div>
@@ -143,7 +140,7 @@
         </div>
       </div>
     </section>
-  </section>
+
     <!-- Certificates  Section Start -->
     <section class="Certificates" id="Certificates">
       <div class="content">
@@ -154,19 +151,14 @@
               <i class="fas fa-desktop"></i>
             </div>
             <div class="topic">React.js Advanced</div>
-           <img src="advaced.jpg" alt="" width="300" height="300"/> 
-           <a href="https://coursera.org/share/120d68ae1ae3a4d5056cada02158c7df"> <div class="button">
-            <button>Click</button>
-          </div> </a>
+            <img src="https://coursera.org/share/e4daa99a5286635a1eaea842df57ccad" alt="" />
           </div>
           <div class="box">
             <div class="icon">
               <i class="fas fa-paint-brush"></i>
             </div>
-            <div class="topic">React.js Basic </div>
-            <img src="basic.jpg" alt="" width="300" height="300"/> <a href="https://coursera.org/share/e4daa99a5286635a1eaea842df57ccad"><div class="button">
-              <button>Click</button>
-            </div></a>
+            <div class="topic">React.js Advanced </div>
+            <p>I can design software structure with full requiremnt design including UI/UX design</p>
           </div>
          
         </div>
@@ -180,11 +172,11 @@
             <div class="icon">
               <i class="fas fa-ambulance"></i>
             </div>
-            <div class="topic">Online health center location and service tracker</div>
+            <div class="topic">Online health organization location and service tracker</div>
             <p>This project is designed using PHP Laravel framework for backend and html and bootstrap for frontend for school project</p>
             <div class="button">
          <div class="button">
-          <button><a href="https://github.com/tsega19/Online_health_organization_location_and_service_tracker">See in detail</a></button>
+          <button><a href="https://github.com/tsega19">See in detail</a></button>
         </div>
         </div>
           </div>
@@ -192,11 +184,11 @@
             <div class="icon">
               <i class="fas fa-hamburger"></i>
             </div>
-            <div class="topic">Online Food Ordering and Delivery System </div>
+            <div class="topic">ONline Food Ordering and Delivery System </div>
             <p>This is made by PHP for backend and html javascript and bootsrap library for frontend for school project </p>
             <div class="button">
          <div class="button">
-          <button><a href="https://github.com/tsega19/Online_Food_Ordering_and_Delivery_System">See in detail</a></button>
+          <button><a href="https://github.com/tsega19">See in detail</a></button>
         </div>
         </div>
           </div>
@@ -204,11 +196,11 @@
             <div class="icon">
               <i class="fas fa-car"></i>
             </div>
-           <div class="topic">Online Car Dealer  </div>
+            <div class="topic">Online Car Rental System  </div>
             <p>This is design using Python django framework for backend with sqlite database and bootsrap with some css for internship project </p>
             <div class="button">
          <div class="button">
-          <button><a href="https://github.com/tsega19/Cardealer">See in detail</a></button>
+          <button><a href="https://github.com/tsega19">See in detail</a></button>
         </div>
         </div>
           </div> 
